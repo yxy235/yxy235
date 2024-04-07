@@ -1,5 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/yxy235" >
+  <img align=right width="50%" src="https://github-readme-stats.vercel.app/api?username=yxy235&show_icons=true&theme=rose_pine" />
+</a>
 
+### Hi there 👋
+🔨 Developing ...
 <!--
 **yxy235/yxy235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
